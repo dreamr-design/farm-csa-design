@@ -1,0 +1,91 @@
+{
+  "id": "farm-csa",
+  "name": "Bramblecut",
+  "business": "Bramblecut Farm",
+  "description": "Bramblecut Farm, a fictional five-person certified organic vegetable farm on 22 acres of Driftless hillside near Viroqua, Wisconsin. It sells a twenty-week CSA (the Stand Card, Half, Full and Kitchen shares, with pay-in-4 and sliding-scale options), runs an honor-box farm stand, and hosts four farm dinners a year at one long table in the squash field. The whole site is dressed as seed packets and produce crates, printed in two inks on kraft.",
+  "niche": "A small organic farm: CSA farm-share boxes, farm stand, farm dinners",
+  "keyword": "organic farm",
+  "category": "food-drink",
+  "tags": [
+    "farm",
+    "csa",
+    "subscription",
+    "illustrated",
+    "kraft",
+    "retro",
+    "small-business"
+  ],
+  "pages": [
+    {
+      "slug": "index",
+      "path": "/",
+      "title": "Bramblecut Farm | Organic CSA shares, farm stand and farm dinners",
+      "description": "Bramblecut Farm grows certified organic vegetables on 22 acres near Viroqua, Wisconsin. Join the CSA for twenty weekly crates, stop by the farm stand, or eat at a farm dinner."
+    },
+    {
+      "slug": "pricing",
+      "path": "/pricing/",
+      "title": "Shares and pricing | Bramblecut Farm CSA",
+      "description": "Compare Bramblecut Farm CSA shares for 2027: the Stand Card, Half, Full and Kitchen shares, with pay-in-4 plans, sliding-scale shares, SNAP at the stand and an FAQ."
+    },
+    {
+      "slug": "about",
+      "path": "/about/",
+      "title": "About the farm | Bramblecut Farm",
+      "description": "How two growers turned one borrowed acre into a 22-acre certified organic farm near Viroqua, Wisconsin. Meet the crew, read how we farm, and find the farm stand."
+    },
+    {
+      "slug": "contact",
+      "path": "/contact/",
+      "title": "Write to the farm | Bramblecut Farm",
+      "description": "Write to Bramblecut Farm about CSA shares, farm dinners or a tour. Find the farm stand on County Road B near Viroqua, Wisconsin, its hours, and Thursday pickup times."
+    },
+    {
+      "slug": "blog",
+      "path": "/blog/",
+      "title": "Farm notes | Bramblecut Farm",
+      "description": "The Wednesday note from Bramblecut Farm: what went into the ground, what came out of it, what to cook with this week's crate, and what the weather did to the peppers."
+    },
+    {
+      "slug": "blog-post",
+      "path": null,
+      "title": "A farm note | Bramblecut Farm",
+      "description": "One Wednesday note from Bramblecut Farm, the certified organic CSA farm near Viroqua, Wisconsin: what grew, what we cooked, and what the weather did this week."
+    }
+  ],
+  "palette": {
+    "accent": "#862612",
+    "tokens": {
+      "kraft": "#e2d3b4",
+      "kraft-2": "#d4c29d",
+      "packet": "#f7f0de",
+      "line": "#b7a27a",
+      "soil": "#1f2b20",
+      "soil-2": "#4f4733",
+      "tomato": "#d4432a",
+      "tomato-deep": "#862612",
+      "leaf": "#2d6a3e",
+      "leaf-deep": "#1f4d2c",
+      "field": "#1d3d27",
+      "mist": "#c9d3bf",
+      "yolk": "#eeb238",
+      "pine": "#d6ae74",
+      "pine-2": "#b88a4f",
+      "pine-3": "#7d5a2f"
+    }
+  },
+  "fonts": [
+    "Alfa Slab One",
+    "Courier Prime",
+    "Libre Franklin",
+    "Stardos Stencil"
+  ],
+  "features": {
+    "credit": true,
+    "chatsy": true,
+    "slapform": true
+  },
+  "license": "free",
+  "status": "approved",
+  "version": "1.0.0"
+}
